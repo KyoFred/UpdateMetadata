@@ -1,0 +1,63 @@
+[
+  {
+    "id": "30939CFCEEF9442DBDBEF31C9325C261",
+    "title": "prova contract",
+    "description": "prova contract",
+    "version": 6,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplierdocument",
+    "modified": {
+      "on": "2023-12-18T14:02:45Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-14T11:20:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261?type=productsupportcontractsupplierdocument",
+    "clienturl": "http://localhost/app/client/object/30939CFCEEF9442DBDBEF31C9325C261?type=productsupportcontractsupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "30939CFCEEF9442DBDBEF31C9325C261",
+    "contenttype": "productsupportcontractsupplierdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261/content?type=productsupportcontractsupplierdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261/slide?type=productsupportcontractsupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2022-11-01",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "Freher",
+      "title": "prova contract"
+    },
+    "favorite": false
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "FD18EE2ADC8C4BEFB6527FE6A201C35C",
+    "title": "request sign 22 11 2023",
+    "description": "request sign 22 11 2023",
+    "version": 10,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-22T14:16:16Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:14:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/FD18EE2ADC8C4BEFB6527FE6A201C35C?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "FD18EE2ADC8C4BEFB6527FE6A201C35C",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-23",
+      "contractstartdate": "2023-11-21",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Emamur",
+      "title": "request sign 22 11 2023",
+      "yuvsigrequester": "root",
+      "yuvsigreqdate": "2023-11-22T13:15:12.000Z",
+      "yuvsigdate": "2023-11-22T13:21:11.000Z",
+      "yuvsigemailsubject": "Please sign.",
+      "yuvsigplatformid": "34c2de74-5353-4862-bb14-123f3a87c471",
+      "yuvsigstatus": "signed",
+      "yuvsigplatform": "docusign",
+      "yuvsigtype": "simple",
+      "yuvsigemailbody": "Please sign the document."
+    },
+    "favorite": false
+  },
+  {
+    "id": "4B6A31C3ACDB4CE3BEB3DEDDF08085C9",
+    "title": "new sign 22 11 2023",
+    "description": "new sign 22 11 2023",
+    "version": 7,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-22T13:34:48Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:19:28Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4B6A31C3ACDB4CE3BEB3DEDDF08085C9?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4B6A31C3ACDB4CE3BEB3DEDDF08085C9",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-01-22",
+      "contractstartdate": "2023-11-22",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Emamur",
+      "title": "new sign 22 11 2023",
+      "yuvsigrequester": "root",
+      "yuvsigreqdate": "2023-11-22T13:21:15.000Z",
+      "yuvsigdate": "2023-11-22T13:27:52.000Z",
+      "yuvsigemailsubject": "Please sign.",
+      "yuvsigplatformid": "7fa9c0af-e55e-4175-8bdd-be44d445255b",
+      "yuvsigstatus": "signed",
+      "yuvsigplatform": "docusign",
+      "yuvsigtype": "simple",
+      "yuvsigemailbody": "Please sign the document."
+    },
+    "favorite": false
+  },
+  {
+    "id": "CB6DCFF5F3C4475289F16B008D09D674",
+    "title": "Update status Contract",
+    "description": "Update status Contract",
+    "version": 30,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T12:39:49Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:51:35Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/CB6DCFF5F3C4475289F16B008D09D674?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "CB6DCFF5F3C4475289F16B008D09D674",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-21",
+      "contractstartdate": "2023-10-22",
+      "contractstatus": "Active",
+      "contracttype": "LIMITED_IN_TIME",
+      "notificationperiod": 90,
+      "partnername": "fre",
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "Update status Contract",
+      "yuvsigrequester": "root",
+      "yuvsigreqdate": "2023-11-22T13:52:32.000Z",
+      "yuvsigdate": "2023-11-22T13:55:51.000Z",
+      "yuvsigemailsubject": "Please sign.",
+      "yuvsigplatformid": "2dc06480-ddb3-43d2-a73d-52583c6c9300",
+      "yuvsigstatus": "signed",
+      "yuvsigplatform": "docusign",
+      "yuvsigtype": "simple",
+      "yuvsigemailbody": "Please sign the document."
+    },
+    "favorite": false
+  },
+  {
+    "id": "16A5B935BE7D43A68483964A5096CD3E",
+    "title": "Test",
+    "description": "Test",
+    "version": 3,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-29T13:38:33Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-29T13:36:48Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/16A5B935BE7D43A68483964A5096CD3E?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "16A5B935BE7D43A68483964A5096CD3E",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-29",
+      "contractstartdate": "2023-11-29",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "Freher",
+      "title": "Test",
+      "yuvsigstatus": "signed"
+    },
+    "favorite": false
+  },
+  {
+    "id": "8EB86E2504544481865E353776FB80AD",
+    "title": "Contract Customer",
+    "description": "Contract Customer",
+    "version": 15,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T13:10:10Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-30T09:43:53Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/8EB86E2504544481865E353776FB80AD?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "8EB86E2504544481865E353776FB80AD",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-29",
+      "contractstartdate": "2023-11-16",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "Contract Customer",
+      "yuvsigrequester": "root",
+      "yuvsigreqdate": "2023-11-30T09:45:40.000Z",
+      "yuvsigdate": "2023-11-30T09:47:54.000Z",
+      "yuvsigemailsubject": "Please sign.",
+      "yuvsigplatformid": "ea41dbeb-a1ab-4cdd-95ef-4b2bf47bdae0",
+      "yuvsigstatus": "signed",
+      "yuvsigplatform": "docusign",
+      "yuvsigtype": "simple",
+      "yuvsigemailbody": "Please sign the document."
+    },
+    "favorite": false
+  }
+]

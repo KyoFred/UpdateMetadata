@@ -1,0 +1,56 @@
+[
+  {
+    "id": "FC74B274E8FD4FD59B7E4CC4D4486BCE",
+    "title": "tuttosport",
+    "description": "tuttosport",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-27T15:05:21Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:05:21Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/FC74B274E8FD4FD59B7E4CC4D4486BCE?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "FC74B274E8FD4FD59B7E4CC4D4486BCE",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "tuttosport"
+    },
+    "favorite": false
+  }
+]

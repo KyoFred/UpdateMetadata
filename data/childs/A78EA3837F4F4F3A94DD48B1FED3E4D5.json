@@ -1,0 +1,121 @@
+[
+  {
+    "id": "B24E2ED5A7634D2C8D3A4BCCE8DEB17F",
+    "title": "test2",
+    "description": "test2",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-12-15T10:52:04Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:02:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B24E2ED5A7634D2C8D3A4BCCE8DEB17F?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B24E2ED5A7634D2C8D3A4BCCE8DEB17F",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "contractcategory": "General contract",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Freher",
+      "title": "test2"
+    },
+    "favorite": false
+  },
+  {
+    "id": "ECA3E2EF380C43D49F614B3030372439",
+    "title": "doc firma",
+    "description": "doc firma",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-12-15T10:53:15Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-12-15T10:53:03Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/ECA3E2EF380C43D49F614B3030372439?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/ECA3E2EF380C43D49F614B3030372439?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "ECA3E2EF380C43D49F614B3030372439",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/ECA3E2EF380C43D49F614B3030372439/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/ECA3E2EF380C43D49F614B3030372439/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-15",
+      "contractstartdate": "2023-12-15",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "Freher",
+      "title": "doc firma"
+    },
+    "favorite": false
+  }
+]

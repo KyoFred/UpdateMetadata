@@ -1,0 +1,61 @@
+[
+  {
+    "id": "4B1A501DEB3141498E2017F7CBF32E57",
+    "title": "",
+    "description": "",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:27Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:06:30Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4B1A501DEB3141498E2017F7CBF32E57?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4B1A501DEB3141498E2017F7CBF32E57",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57/content?type=administrationcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "progressivenumber": "22"
+    },
+    "favorite": false
+  }
+]

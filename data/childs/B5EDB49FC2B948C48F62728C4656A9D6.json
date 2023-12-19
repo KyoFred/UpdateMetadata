@@ -1,0 +1,73 @@
+[
+  {
+    "id": "B8B7E7CB68DC45C597E940E3F513EA95",
+    "title": "sei malato Murgias",
+    "description": "sei malato Murgias",
+    "version": 25,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-13T15:52:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-16T14:55:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B8B7E7CB68DC45C597E940E3F513EA95?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B8B7E7CB68DC45C597E940E3F513EA95",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95/content?type=administrationcontractcustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 400,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-09",
+      "contractstartdate": "2023-12-15",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "sei malato Murgias",
+      "progressivenumber": "27",
+      "yuvsigrequester": "root",
+      "yuvsigreqdate": "2023-11-16T15:08:56.000Z",
+      "yuvsigdate": "2023-11-16T15:21:05.000Z",
+      "yuvsigemailsubject": "Chiedo firma",
+      "yuvsigplatformid": "32e1f966-c9b1-4963-a210-5bbd307c8964",
+      "yuvsigstatus": "signed",
+      "yuvsigplatform": "docusign",
+      "yuvsigtype": "simple",
+      "yuvsigemailbody": "Please sign the document.\nE firma"
+    },
+    "favorite": false
+  }
+]

@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "40ACB7C1298C4F4F8D5880D6CB0DE71C",
+    "title": "Administration Contract - Customer ()",
+    "description": "Administration Contract - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T09:05:00Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T09:05:00Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/40ACB7C1298C4F4F8D5880D6CB0DE71C?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/40ACB7C1298C4F4F8D5880D6CB0DE71C?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/40ACB7C1298C4F4F8D5880D6CB0DE71C/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "B5EDB49FC2B948C48F62728C4656A9D6",
+    "title": "Administration Contract - Customer (test sign)",
+    "description": "Administration Contract - Customer (test sign)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-16T14:54:29Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-16T14:54:29Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/B5EDB49FC2B948C48F62728C4656A9D6?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/B5EDB49FC2B948C48F62728C4656A9D6?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/B5EDB49FC2B948C48F62728C4656A9D6/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test sign"
+    },
+    "favorite": false
+  },
+  {
+    "id": "905F28B004B0413C9C49865D6FE8DD7C",
+    "title": "Service Planning Contract - Customer (Test 22 11 2023)",
+    "description": "Service Planning Contract - Customer (Test 22 11 2023)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomer",
+    "modified": {
+      "on": "2023-11-22T13:13:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:13:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/905F28B004B0413C9C49865D6FE8DD7C?type=serviceplanningcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/905F28B004B0413C9C49865D6FE8DD7C?type=serviceplanningcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/905F28B004B0413C9C49865D6FE8DD7C/children?type=serviceplanningcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Test 22 11 2023"
+    },
+    "favorite": false
+  },
+  {
+    "id": "CCB2C96693CF4B28805E57D936B01036",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-30T08:21:38Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:21:38Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/CCB2C96693CF4B28805E57D936B01036?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/CCB2C96693CF4B28805E57D936B01036?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/CCB2C96693CF4B28805E57D936B01036/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "5D95B82C2541488B845F4764594E9CA5",
+    "title": "HR Contract - Supplier ()",
+    "description": "HR Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontract",
+    "modified": {
+      "on": "2023-10-27T14:40:49Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:40:49Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/5D95B82C2541488B845F4764594E9CA5?type=hrcontract",
+    "clienturl": "http://localhost/app/client/object/5D95B82C2541488B845F4764594E9CA5?type=hrcontract",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/5D95B82C2541488B845F4764594E9CA5/children?type=hrcontract",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "CA9B0A39796B4FB0B75DE8E62B63B10B",
+    "title": "MIS Contract - Supplier ()",
+    "description": "MIS Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "miscontractsupplier",
+    "modified": {
+      "on": "2023-11-08T12:01:12Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-08T12:01:12Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/CA9B0A39796B4FB0B75DE8E62B63B10B?type=miscontractsupplier",
+    "clienturl": "http://localhost/app/client/object/CA9B0A39796B4FB0B75DE8E62B63B10B?type=miscontractsupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/CA9B0A39796B4FB0B75DE8E62B63B10B/children?type=miscontractsupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "FC853A02B2884CACB5F4B8A1B7F69668",
+    "title": "Product Support Contract - Customer (KDIT)",
+    "description": "Product Support Contract - Customer (KDIT)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomer",
+    "modified": {
+      "on": "2023-11-15T13:45:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-15T13:45:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/FC853A02B2884CACB5F4B8A1B7F69668?type=productsupportcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/FC853A02B2884CACB5F4B8A1B7F69668?type=productsupportcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/FC853A02B2884CACB5F4B8A1B7F69668/children?type=productsupportcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "KDIT"
+    },
+    "favorite": false
+  },
+  {
+    "id": "FF5149D8018C4DA0855D5E5C1A08D615",
+    "title": "Administration Contract - Supplier ()",
+    "description": "Administration Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontract",
+    "modified": {
+      "on": "2023-10-30T08:08:39Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:08:39Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/FF5149D8018C4DA0855D5E5C1A08D615?type=administrationcontract",
+    "clienturl": "http://localhost/app/client/object/FF5149D8018C4DA0855D5E5C1A08D615?type=administrationcontract",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/FF5149D8018C4DA0855D5E5C1A08D615/children?type=administrationcontract",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "A78EA3837F4F4F3A94DD48B1FED3E4D5",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-27T15:02:22Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:02:22Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/A78EA3837F4F4F3A94DD48B1FED3E4D5?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/A78EA3837F4F4F3A94DD48B1FED3E4D5?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/A78EA3837F4F4F3A94DD48B1FED3E4D5/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "C7FFE1BBC2F744EDB8F3AC287FCAC9C6",
+    "title": "Administration Contract - Customer ()",
+    "description": "Administration Contract - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T09:14:49Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T09:14:49Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/C7FFE1BBC2F744EDB8F3AC287FCAC9C6?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/C7FFE1BBC2F744EDB8F3AC287FCAC9C6?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/C7FFE1BBC2F744EDB8F3AC287FCAC9C6/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "61DABD68836E4897B48F229795A9336B",
+    "title": "Credit Management Contract - Intercompany - Supplier ()",
+    "description": "Credit Management Contract - Intercompany - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "creditmanagementcontractintercompanysupplier",
+    "modified": {
+      "on": "2023-10-27T14:44:19Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:44:19Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/61DABD68836E4897B48F229795A9336B?type=creditmanagementcontractintercompanysupplier",
+    "clienturl": "http://localhost/app/client/object/61DABD68836E4897B48F229795A9336B?type=creditmanagementcontractintercompanysupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/61DABD68836E4897B48F229795A9336B/children?type=creditmanagementcontractintercompanysupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "CCEDFE0EED184D8DACE2BB4678FC4392",
+    "title": "Product Support Contract - Customer (prime)",
+    "description": "Product Support Contract - Customer (prime)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomer",
+    "modified": {
+      "on": "2023-11-09T14:12:03Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-09T14:12:03Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/CCEDFE0EED184D8DACE2BB4678FC4392?type=productsupportcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/CCEDFE0EED184D8DACE2BB4678FC4392?type=productsupportcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/CCEDFE0EED184D8DACE2BB4678FC4392/children?type=productsupportcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "prime"
+    },
+    "favorite": false
+  },
+  {
+    "id": "AA6E25F61F034F94A853CB772B3C01FF",
+    "title": "Administration Contract - Customer (contract 1)",
+    "description": "Administration Contract - Customer (contract 1)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T09:26:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T09:26:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/AA6E25F61F034F94A853CB772B3C01FF?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/AA6E25F61F034F94A853CB772B3C01FF?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/AA6E25F61F034F94A853CB772B3C01FF/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "contract 1"
+    },
+    "favorite": false
+  },
+  {
+    "id": "9E897B8F613641F2A79E6D2EDC121382",
+    "title": "Administration Contract - Customer (nike)",
+    "description": "Administration Contract - Customer (nike)",
+    "version": 3,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T09:23:04Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T09:21:56Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/9E897B8F613641F2A79E6D2EDC121382?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/9E897B8F613641F2A79E6D2EDC121382?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/9E897B8F613641F2A79E6D2EDC121382/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "nike"
+    },
+    "favorite": false
+  },
+  {
+    "id": "96584C88FCD14AA8B4F5205693DA35FC",
+    "title": "HR Contract - Supplier ()",
+    "description": "HR Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontract",
+    "modified": {
+      "on": "2023-10-27T12:52:06Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T12:52:06Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/96584C88FCD14AA8B4F5205693DA35FC?type=hrcontract",
+    "clienturl": "http://localhost/app/client/object/96584C88FCD14AA8B4F5205693DA35FC?type=hrcontract",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/96584C88FCD14AA8B4F5205693DA35FC/children?type=hrcontract",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "00C7A740E9E94DC8A652D777FB867EC3",
+    "title": "HR Contract - Intercompany  - Supplier (Hr contrato ...)",
+    "description": "HR Contract - Intercompany  - Supplier (Hr contrato ...)",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanysupplier",
+    "modified": {
+      "on": "2023-12-12T15:35:22Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:53:41Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/00C7A740E9E94DC8A652D777FB867EC3?type=hrcontractintercompanysupplier",
+    "clienturl": "http://localhost/app/client/object/00C7A740E9E94DC8A652D777FB867EC3?type=hrcontractintercompanysupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/00C7A740E9E94DC8A652D777FB867EC3/children?type=hrcontractintercompanysupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Hr contrato ..."
+    },
+    "favorite": false
+  },
+  {
+    "id": "C5934B045D1C4CA58B4E15648344A751",
+    "title": "HR Contract - Supplier ()",
+    "description": "HR Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontract",
+    "modified": {
+      "on": "2023-10-27T14:43:13Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:43:13Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/C5934B045D1C4CA58B4E15648344A751?type=hrcontract",
+    "clienturl": "http://localhost/app/client/object/C5934B045D1C4CA58B4E15648344A751?type=hrcontract",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/C5934B045D1C4CA58B4E15648344A751/children?type=hrcontract",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "0C229392C8C44878BE082CF7AF4A52AD",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-27T14:59:05Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:59:05Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/0C229392C8C44878BE082CF7AF4A52AD?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/0C229392C8C44878BE082CF7AF4A52AD?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/0C229392C8C44878BE082CF7AF4A52AD/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "E25022D951A74BC2993403462B10F520",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-27T15:17:45Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:17:45Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/E25022D951A74BC2993403462B10F520?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/E25022D951A74BC2993403462B10F520?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/E25022D951A74BC2993403462B10F520/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "63C5A8FB15D74CC8800167E3F70C29A7",
+    "title": "Service Planning Contract - Customer (TestServiceRingi)",
+    "description": "Service Planning Contract - Customer (TestServiceRingi)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T16:36:29Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T16:36:29Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/63C5A8FB15D74CC8800167E3F70C29A7?type=serviceplanningcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/63C5A8FB15D74CC8800167E3F70C29A7?type=serviceplanningcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/63C5A8FB15D74CC8800167E3F70C29A7/children?type=serviceplanningcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "TestServiceRingi"
+    },
+    "favorite": false
+  },
+  {
+    "id": "FC80960ED2A2458A9A6193FB7055BF41",
+    "title": "Administration Contract - Intercompany - Supplier (test)",
+    "description": "Administration Contract - Intercompany - Supplier (test)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanysupplier",
+    "modified": {
+      "on": "2023-11-13T15:00:27Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:00:27Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/FC80960ED2A2458A9A6193FB7055BF41?type=administrationcontractintercompanysupplier",
+    "clienturl": "http://localhost/app/client/object/FC80960ED2A2458A9A6193FB7055BF41?type=administrationcontractintercompanysupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/FC80960ED2A2458A9A6193FB7055BF41/children?type=administrationcontractintercompanysupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "38A164521861468B9B30F0B3C625176F",
+    "title": "Product Support Contract - Customer (Primo)",
+    "description": "Product Support Contract - Customer (Primo)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomer",
+    "modified": {
+      "on": "2023-11-09T14:11:06Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-09T14:11:06Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/38A164521861468B9B30F0B3C625176F?type=productsupportcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/38A164521861468B9B30F0B3C625176F?type=productsupportcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/38A164521861468B9B30F0B3C625176F/children?type=productsupportcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Primo"
+    },
+    "favorite": false
+  },
+  {
+    "id": "5C887A89B48543A189818D34A7629B85",
+    "title": "Administration Contract - Intercompany - Customer (Test Administrator Company)",
+    "description": "Administration Contract - Intercompany - Customer (Test Administrator Company)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-11-13T15:03:11Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:03:11Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/5C887A89B48543A189818D34A7629B85?type=administrationcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/5C887A89B48543A189818D34A7629B85?type=administrationcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/5C887A89B48543A189818D34A7629B85/children?type=administrationcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Test Administrator Company"
+    },
+    "favorite": false
+  },
+  {
+    "id": "8FDD5F670ADD4F3D90927F58C71EBAF5",
+    "title": "Administration Contract - Customer (test)",
+    "description": "Administration Contract - Customer (test)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T15:05:30Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:05:30Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/8FDD5F670ADD4F3D90927F58C71EBAF5?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/8FDD5F670ADD4F3D90927F58C71EBAF5?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/8FDD5F670ADD4F3D90927F58C71EBAF5/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "3B825C5FBABB4BC9859EE67D95F8674F",
+    "title": "Product Support Contract - Supplier (Paolo Bensaia contract)",
+    "description": "Product Support Contract - Supplier (Paolo Bensaia contract)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplier",
+    "modified": {
+      "on": "2023-11-30T10:22:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-30T10:22:20Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/3B825C5FBABB4BC9859EE67D95F8674F?type=productsupportcontractsupplier",
+    "clienturl": "http://localhost/app/client/object/3B825C5FBABB4BC9859EE67D95F8674F?type=productsupportcontractsupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/3B825C5FBABB4BC9859EE67D95F8674F/children?type=productsupportcontractsupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Paolo Bensaia contract"
+    },
+    "favorite": false
+  },
+  {
+    "id": "339F31A164F14DC497BA14D7A3C428B4",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-27T15:04:54Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:04:54Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/339F31A164F14DC497BA14D7A3C428B4?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/339F31A164F14DC497BA14D7A3C428B4?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/339F31A164F14DC497BA14D7A3C428B4/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "23D320B2ED90450091CE9CDBA1D335EC",
+    "title": "Administration Contract - Customer ()",
+    "description": "Administration Contract - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-10-31T10:40:46Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-31T10:40:46Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/23D320B2ED90450091CE9CDBA1D335EC?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/23D320B2ED90450091CE9CDBA1D335EC?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/23D320B2ED90450091CE9CDBA1D335EC/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "6956371AC8F3422FA476A20732BC7943",
+    "title": "Credit Management Contract - Intercompany - Supplier (test credi)",
+    "description": "Credit Management Contract - Intercompany - Supplier (test credi)",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "creditmanagementcontractintercompanysupplier",
+    "modified": {
+      "on": "2023-11-17T09:39:48Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-16T16:25:38Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/6956371AC8F3422FA476A20732BC7943?type=creditmanagementcontractintercompanysupplier",
+    "clienturl": "http://localhost/app/client/object/6956371AC8F3422FA476A20732BC7943?type=creditmanagementcontractintercompanysupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/6956371AC8F3422FA476A20732BC7943/children?type=creditmanagementcontractintercompanysupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test credi"
+    },
+    "favorite": false
+  },
+  {
+    "id": "5D24314B5CF04DD0A3E6A1A6482FD789",
+    "title": "Administration Contract - Intercompany - Customer (test update service)",
+    "description": "Administration Contract - Intercompany - Customer (test update service)",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-11-22T10:31:42Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T10:31:42Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/5D24314B5CF04DD0A3E6A1A6482FD789?type=administrationcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/5D24314B5CF04DD0A3E6A1A6482FD789?type=administrationcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/5D24314B5CF04DD0A3E6A1A6482FD789/children?type=administrationcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test update service"
+    },
+    "favorite": false
+  },
+  {
+    "id": "66F58CF2E71D4D19890D7755087CE7E6",
+    "title": "HR Contract - Intercompany  - Customer ()",
+    "description": "HR Contract - Intercompany  - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-30T09:08:35Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T09:08:35Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/66F58CF2E71D4D19890D7755087CE7E6?type=hrcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/66F58CF2E71D4D19890D7755087CE7E6?type=hrcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/66F58CF2E71D4D19890D7755087CE7E6/children?type=hrcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "18C3DB52EE0041E8A34FE3780EC8C08C",
+    "title": "Product Support Contract - Supplier (TestEnd Datess)",
+    "description": "Product Support Contract - Supplier (TestEnd Datess)",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplier",
+    "modified": {
+      "on": "2023-12-18T13:29:04Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-14T11:19:35Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/18C3DB52EE0041E8A34FE3780EC8C08C?type=productsupportcontractsupplier",
+    "clienturl": "http://localhost/app/client/object/18C3DB52EE0041E8A34FE3780EC8C08C?type=productsupportcontractsupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/18C3DB52EE0041E8A34FE3780EC8C08C/children?type=productsupportcontractsupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "TestEnd Datess"
+    },
+    "favorite": false
+  },
+  {
+    "id": "AF73BA097221444F9AA3AA0B9DE19354",
+    "title": "Administration Contract - Customer (contratto amministratore 17/11/2023)",
+    "description": "Administration Contract - Customer (contratto amministratore 17/11/2023)",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-17T09:21:08Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-17T07:32:28Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/AF73BA097221444F9AA3AA0B9DE19354?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/AF73BA097221444F9AA3AA0B9DE19354?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/AF73BA097221444F9AA3AA0B9DE19354/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "contratto amministratore 17/11/2023"
+    },
+    "favorite": false
+  },
+  {
+    "id": "EF03B9F970554A66B3BD39F70FA9E3BB",
+    "title": "Customer Support Contract - Supplier (test c sc s 233)",
+    "description": "Customer Support Contract - Supplier (test c sc s 233)",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "customersupportcontractsupplier",
+    "modified": {
+      "on": "2023-12-18T13:33:58Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T14:51:10Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/EF03B9F970554A66B3BD39F70FA9E3BB?type=customersupportcontractsupplier",
+    "clienturl": "http://localhost/app/client/object/EF03B9F970554A66B3BD39F70FA9E3BB?type=customersupportcontractsupplier",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/EF03B9F970554A66B3BD39F70FA9E3BB/children?type=customersupportcontractsupplier",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test c sc s 233"
+    },
+    "favorite": false
+  },
+  {
+    "id": "97EC54C774514744A9380BE34CA0CFFD",
+    "title": "HR Contract - Supplier ()",
+    "description": "HR Contract - Supplier ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontract",
+    "modified": {
+      "on": "2023-10-30T08:17:24Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:17:24Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/97EC54C774514744A9380BE34CA0CFFD?type=hrcontract",
+    "clienturl": "http://localhost/app/client/object/97EC54C774514744A9380BE34CA0CFFD?type=hrcontract",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/97EC54C774514744A9380BE34CA0CFFD/children?type=hrcontract",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "C2A1439D10714273AE2E7490F6084B5F",
+    "title": "Administration Contract - Intercompany - Customer ()",
+    "description": "Administration Contract - Intercompany - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomer",
+    "modified": {
+      "on": "2023-10-27T14:42:33Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:42:33Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/C2A1439D10714273AE2E7490F6084B5F?type=administrationcontractintercompanycustomer",
+    "clienturl": "http://localhost/app/client/object/C2A1439D10714273AE2E7490F6084B5F?type=administrationcontractintercompanycustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/C2A1439D10714273AE2E7490F6084B5F/children?type=administrationcontractintercompanycustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  },
+  {
+    "id": "7DFDA6CCBA71452BB03346AF646D462F",
+    "title": "Administration Contract - Customer ()",
+    "description": "Administration Contract - Customer ()",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomer",
+    "modified": {
+      "on": "2023-11-13T09:05:08Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T09:05:08Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "08C0B83596E247C58F0EF0DFBE0E4D54",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/08C0B83596E247C58F0EF0DFBE0E4D54"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/7DFDA6CCBA71452BB03346AF646D462F?type=administrationcontractcustomer",
+    "clienturl": "http://localhost/app/client/object/7DFDA6CCBA71452BB03346AF646D462F?type=administrationcontractcustomer",
+    "contentcount": 0,
+    "contentlinkedcount": 0,
+    "folder": true,
+    "children": "http://keim-demosrv/rest-ws/service/dms/7DFDA6CCBA71452BB03346AF646D462F/children?type=administrationcontractcustomer",
+    "iscontextfolder": true,
+    "lock": "NOT_LOCKED",
+    "data": {},
+    "favorite": false
+  }
+]

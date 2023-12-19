@@ -1,0 +1,2763 @@
+[
+  {
+    "id": "5AF306094FC04274B8210E7705951CA1",
+    "title": "n10",
+    "description": "n10",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:14Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:25:25Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/5AF306094FC04274B8210E7705951CA1?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/5AF306094FC04274B8210E7705951CA1?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "5AF306094FC04274B8210E7705951CA1",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/5AF306094FC04274B8210E7705951CA1/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/5AF306094FC04274B8210E7705951CA1/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "n10"
+    },
+    "favorite": false
+  },
+  {
+    "id": "286B068270F64391A9C4F5B453471325",
+    "title": "Contratto Customer",
+    "description": "Contratto Customer",
+    "version": 14,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T13:40:09Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-17T07:35:57Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/286B068270F64391A9C4F5B453471325?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/286B068270F64391A9C4F5B453471325?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "286B068270F64391A9C4F5B453471325",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/286B068270F64391A9C4F5B453471325/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/286B068270F64391A9C4F5B453471325/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-03",
+      "contractstartdate": "2023-11-17",
+      "contractstatus": "Finished",
+      "contracttype": "ONE_TIME",
+      "notificationperiod": 90,
+      "partnername": "Partner ABCD",
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "Contratto Customer"
+    },
+    "favorite": false
+  },
+  {
+    "id": "2754D0A3719D44A1A09749E595E021BB",
+    "title": "HR Contract document",
+    "description": "HR Contract document",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractdocument",
+    "modified": {
+      "on": "2023-11-02T13:41:51Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:41:27Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/2754D0A3719D44A1A09749E595E021BB?type=hrcontractdocument",
+    "clienturl": "http://localhost/app/client/object/2754D0A3719D44A1A09749E595E021BB?type=hrcontractdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "2754D0A3719D44A1A09749E595E021BB",
+    "contenttype": "hrcontractdocument",
+    "content": "http://localhost/rest-ws/service/dms/2754D0A3719D44A1A09749E595E021BB/content?type=hrcontractdocument",
+    "slide": "http://localhost/rest-ws/service/dms/2754D0A3719D44A1A09749E595E021BB/slide?type=hrcontractdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "frimaHr"
+    },
+    "favorite": false
+  },
+  {
+    "id": "6A15BC76BF4C478D890910EC16C18C03",
+    "title": "test",
+    "description": "test",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:26Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T16:39:09Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/6A15BC76BF4C478D890910EC16C18C03?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/6A15BC76BF4C478D890910EC16C18C03?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "6A15BC76BF4C478D890910EC16C18C03",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/6A15BC76BF4C478D890910EC16C18C03/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/6A15BC76BF4C478D890910EC16C18C03/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "title": "test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "DDFED85A521540D9BEDE8C4CF40BB358",
+    "title": "no11",
+    "description": "no11",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:17Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:26:18Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/DDFED85A521540D9BEDE8C4CF40BB358?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/DDFED85A521540D9BEDE8C4CF40BB358?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "DDFED85A521540D9BEDE8C4CF40BB358",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/DDFED85A521540D9BEDE8C4CF40BB358/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/DDFED85A521540D9BEDE8C4CF40BB358/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no11"
+    },
+    "favorite": false
+  },
+  {
+    "id": "937D033594494810A062D380E2192A0F",
+    "title": "go live no2",
+    "description": "go live no2",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:15:46Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:14:22Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/937D033594494810A062D380E2192A0F?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/937D033594494810A062D380E2192A0F?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "937D033594494810A062D380E2192A0F",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/937D033594494810A062D380E2192A0F/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/937D033594494810A062D380E2192A0F/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "go live no2"
+    },
+    "favorite": false
+  },
+  {
+    "id": "3A331DD5DE464149BBBB3A0F4D6A220F",
+    "title": "Onetime1",
+    "description": "Onetime1",
+    "version": 11,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-30T11:18:39Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-15T14:49:33Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/3A331DD5DE464149BBBB3A0F4D6A220F?type=productsupportcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/3A331DD5DE464149BBBB3A0F4D6A220F?type=productsupportcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "3A331DD5DE464149BBBB3A0F4D6A220F",
+    "contenttype": "productsupportcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/3A331DD5DE464149BBBB3A0F4D6A220F/content?type=productsupportcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/3A331DD5DE464149BBBB3A0F4D6A220F/slide?type=productsupportcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-25",
+      "contractstartdate": "2023-11-01",
+      "contractstatus": "Finished",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "root",
+      "title": "Onetime1"
+    },
+    "favorite": false
+  },
+  {
+    "id": "B93CECCCF805436884C0C7CE37418115",
+    "title": "Contract 234 Product",
+    "description": "Contract 234 Product",
+    "version": 8,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T12:52:03Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-16T15:02:22Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/B93CECCCF805436884C0C7CE37418115?type=productsupportcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B93CECCCF805436884C0C7CE37418115?type=productsupportcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B93CECCCF805436884C0C7CE37418115",
+    "contenttype": "productsupportcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/B93CECCCF805436884C0C7CE37418115/content?type=productsupportcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/B93CECCCF805436884C0C7CE37418115/slide?type=productsupportcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-07",
+      "contractstartdate": "2023-11-16",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Freher",
+      "title": "Contract 234 Product"
+    },
+    "favorite": false
+  },
+  {
+    "id": "14DE96038F534A35A35E8B363D802D40",
+    "title": "paolo first contract",
+    "description": "paolo first contract",
+    "version": 8,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplierdocument",
+    "modified": {
+      "on": "2023-11-30T11:22:24Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-30T10:26:26Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/14DE96038F534A35A35E8B363D802D40?type=productsupportcontractsupplierdocument",
+    "clienturl": "http://localhost/app/client/object/14DE96038F534A35A35E8B363D802D40?type=productsupportcontractsupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "14DE96038F534A35A35E8B363D802D40",
+    "contenttype": "productsupportcontractsupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/14DE96038F534A35A35E8B363D802D40/content?type=productsupportcontractsupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/14DE96038F534A35A35E8B363D802D40/slide?type=productsupportcontractsupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-29",
+      "contractstartdate": "2023-11-30",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "paolo first contract"
+    },
+    "favorite": false
+  },
+  {
+    "id": "552D618407D4457B9298C3FB46A6EBFA",
+    "title": "test2",
+    "description": "test2",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-27T15:18:07Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:18:07Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/552D618407D4457B9298C3FB46A6EBFA?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/552D618407D4457B9298C3FB46A6EBFA?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "552D618407D4457B9298C3FB46A6EBFA",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/552D618407D4457B9298C3FB46A6EBFA/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/552D618407D4457B9298C3FB46A6EBFA/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test2"
+    },
+    "favorite": false
+  },
+  {
+    "id": "16A5B935BE7D43A68483964A5096CD3E",
+    "title": "Test",
+    "description": "Test",
+    "version": 3,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-29T13:38:33Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-29T13:36:48Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/16A5B935BE7D43A68483964A5096CD3E?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "16A5B935BE7D43A68483964A5096CD3E",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/16A5B935BE7D43A68483964A5096CD3E/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-29",
+      "contractstartdate": "2023-11-29",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "Freher",
+      "title": "Test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "3033A3C734AA4A6F8F2BF99C941AC780",
+    "title": "HR Contract document",
+    "description": "HR Contract document",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractdocument",
+    "modified": {
+      "on": "2023-10-27T12:53:36Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T12:53:36Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/3033A3C734AA4A6F8F2BF99C941AC780?type=hrcontractdocument",
+    "clienturl": "http://localhost/app/client/object/3033A3C734AA4A6F8F2BF99C941AC780?type=hrcontractdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "3033A3C734AA4A6F8F2BF99C941AC780",
+    "contenttype": "hrcontractdocument",
+    "content": "http://localhost/rest-ws/service/dms/3033A3C734AA4A6F8F2BF99C941AC780/content?type=hrcontractdocument",
+    "slide": "http://localhost/rest-ws/service/dms/3033A3C734AA4A6F8F2BF99C941AC780/slide?type=hrcontractdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Contract"
+    },
+    "favorite": false
+  },
+  {
+    "id": "FC74B274E8FD4FD59B7E4CC4D4486BCE",
+    "title": "tuttosport",
+    "description": "tuttosport",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-27T15:05:21Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:05:21Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/FC74B274E8FD4FD59B7E4CC4D4486BCE?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "FC74B274E8FD4FD59B7E4CC4D4486BCE",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/FC74B274E8FD4FD59B7E4CC4D4486BCE/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "tuttosport"
+    },
+    "favorite": false
+  },
+  {
+    "id": "4F31FABB376047EEA37881787641BDF6",
+    "title": "Contract D123",
+    "description": "Contract D123",
+    "version": 12,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-16T11:05:44Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-15T14:45:06Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/4F31FABB376047EEA37881787641BDF6?type=productsupportcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4F31FABB376047EEA37881787641BDF6?type=productsupportcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4F31FABB376047EEA37881787641BDF6",
+    "contenttype": "productsupportcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/4F31FABB376047EEA37881787641BDF6/content?type=productsupportcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/4F31FABB376047EEA37881787641BDF6/slide?type=productsupportcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-15",
+      "contractstartdate": "2023-02-15",
+      "contractstatus": "Finished",
+      "contracttype": "ONE_TIME",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "root",
+      "title": "Contract D123"
+    },
+    "favorite": false
+  },
+  {
+    "id": "B24E2ED5A7634D2C8D3A4BCCE8DEB17F",
+    "title": "test2",
+    "description": "test2",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-27T15:02:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T15:02:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B24E2ED5A7634D2C8D3A4BCCE8DEB17F?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B24E2ED5A7634D2C8D3A4BCCE8DEB17F",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/B24E2ED5A7634D2C8D3A4BCCE8DEB17F/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test2"
+    },
+    "favorite": false
+  },
+  {
+    "id": "246FAEE6A97A40349806FDE661664FD3",
+    "title": "no15",
+    "description": "no15",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:04Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:29:35Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/246FAEE6A97A40349806FDE661664FD3?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/246FAEE6A97A40349806FDE661664FD3?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "246FAEE6A97A40349806FDE661664FD3",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/246FAEE6A97A40349806FDE661664FD3/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/246FAEE6A97A40349806FDE661664FD3/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no15"
+    },
+    "favorite": false
+  },
+  {
+    "id": "4A6DBADE70054FA6BBCD96C2D8C87828",
+    "title": "cotract test update",
+    "description": "cotract test update",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-11-23T15:10:19Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T10:36:15Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828?type=administrationcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4A6DBADE70054FA6BBCD96C2D8C87828?type=administrationcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4A6DBADE70054FA6BBCD96C2D8C87828",
+    "contenttype": "administrationcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828/content?type=administrationcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828/slide?type=administrationcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-22",
+      "contractstartdate": "2023-11-22",
+      "contractstatus": "Finished",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Emamur",
+      "title": "cotract test update"
+    },
+    "favorite": false
+  },
+  {
+    "id": "A45C6C1530E14712905680F93F1C0F39",
+    "title": "no18",
+    "description": "no18",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:40:47Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:32:18Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/A45C6C1530E14712905680F93F1C0F39?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/A45C6C1530E14712905680F93F1C0F39?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "A45C6C1530E14712905680F93F1C0F39",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/A45C6C1530E14712905680F93F1C0F39/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/A45C6C1530E14712905680F93F1C0F39/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no18"
+    },
+    "favorite": false
+  },
+  {
+    "id": "F96C72A77B6240BC8528ED28B57E5069",
+    "title": "test Object",
+    "description": "test Object",
+    "version": 3,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:26Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:07:18Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/F96C72A77B6240BC8528ED28B57E5069?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/F96C72A77B6240BC8528ED28B57E5069?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "F96C72A77B6240BC8528ED28B57E5069",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/F96C72A77B6240BC8528ED28B57E5069/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/F96C72A77B6240BC8528ED28B57E5069/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "title": "test Object"
+    },
+    "favorite": false
+  },
+  {
+    "id": "B8B7E7CB68DC45C597E940E3F513EA95",
+    "title": "sei malato Murgias",
+    "description": "sei malato Murgias",
+    "version": 25,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-13T15:52:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-16T14:55:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B8B7E7CB68DC45C597E940E3F513EA95?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B8B7E7CB68DC45C597E940E3F513EA95",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/B8B7E7CB68DC45C597E940E3F513EA95/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 400,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-09",
+      "contractstartdate": "2023-12-15",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "sei malato Murgias"
+    },
+    "favorite": false
+  },
+  {
+    "id": "CB6DCFF5F3C4475289F16B008D09D674",
+    "title": "Update status Contract",
+    "description": "Update status Contract",
+    "version": 30,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T12:39:49Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:51:35Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/CB6DCFF5F3C4475289F16B008D09D674?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "CB6DCFF5F3C4475289F16B008D09D674",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/CB6DCFF5F3C4475289F16B008D09D674/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-21",
+      "contractstartdate": "2023-10-22",
+      "contractstatus": "Active",
+      "contracttype": "LIMITED_IN_TIME",
+      "notificationperiod": 90,
+      "partnername": "fre",
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "Update status Contract"
+    },
+    "favorite": false
+  },
+  {
+    "id": "C08A8C4FD19A49D58A9D4130132F22FA",
+    "title": "",
+    "description": "",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:28Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:05:14Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/C08A8C4FD19A49D58A9D4130132F22FA?type=administrationcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/C08A8C4FD19A49D58A9D4130132F22FA?type=administrationcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "C08A8C4FD19A49D58A9D4130132F22FA",
+    "contenttype": "administrationcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/C08A8C4FD19A49D58A9D4130132F22FA/content?type=administrationcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/C08A8C4FD19A49D58A9D4130132F22FA/slide?type=administrationcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal"
+    },
+    "favorite": false
+  },
+  {
+    "id": "7F43B271E6374828863978C982018841",
+    "title": "no16",
+    "description": "no16",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:40:51Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:30:21Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/7F43B271E6374828863978C982018841?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/7F43B271E6374828863978C982018841?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "7F43B271E6374828863978C982018841",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/7F43B271E6374828863978C982018841/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/7F43B271E6374828863978C982018841/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no16"
+    },
+    "favorite": false
+  },
+  {
+    "id": "1E015ED5942C4101A2F4A5BD5666297A",
+    "title": "test",
+    "description": "test",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-27T14:59:45Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:59:45Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/1E015ED5942C4101A2F4A5BD5666297A?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/1E015ED5942C4101A2F4A5BD5666297A?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "1E015ED5942C4101A2F4A5BD5666297A",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/1E015ED5942C4101A2F4A5BD5666297A/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/1E015ED5942C4101A2F4A5BD5666297A/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "808089F581E345F4A94FAD586FBDB070",
+    "title": "tr",
+    "description": "tr",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-10-30T08:22:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:22:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/808089F581E345F4A94FAD586FBDB070?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "808089F581E345F4A94FAD586FBDB070",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "tr"
+    },
+    "favorite": false
+  },
+  {
+    "id": "6113FD2FB5FA49058B4652E34F384036",
+    "title": "no6",
+    "description": "no6",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:11Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:20:47Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/6113FD2FB5FA49058B4652E34F384036?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/6113FD2FB5FA49058B4652E34F384036?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "6113FD2FB5FA49058B4652E34F384036",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/6113FD2FB5FA49058B4652E34F384036/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/6113FD2FB5FA49058B4652E34F384036/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no6"
+    },
+    "favorite": false
+  },
+  {
+    "id": "30939CFCEEF9442DBDBEF31C9325C261",
+    "title": "",
+    "description": "",
+    "version": 3,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplierdocument",
+    "modified": {
+      "on": "2023-11-15T09:58:38Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-14T11:20:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261?type=productsupportcontractsupplierdocument",
+    "clienturl": "http://localhost/app/client/object/30939CFCEEF9442DBDBEF31C9325C261?type=productsupportcontractsupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "30939CFCEEF9442DBDBEF31C9325C261",
+    "contenttype": "productsupportcontractsupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261/content?type=productsupportcontractsupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/30939CFCEEF9442DBDBEF31C9325C261/slide?type=productsupportcontractsupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2022-11-01",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing"
+    },
+    "favorite": false
+  },
+  {
+    "id": "05CAF031936F45ACB50A432B09A45E1F",
+    "title": "",
+    "description": "",
+    "version": 5,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-30T10:48:43Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-17T13:08:45Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/05CAF031936F45ACB50A432B09A45E1F?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/05CAF031936F45ACB50A432B09A45E1F?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "05CAF031936F45ACB50A432B09A45E1F",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/05CAF031936F45ACB50A432B09A45E1F/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/05CAF031936F45ACB50A432B09A45E1F/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-16",
+      "contractstartdate": "2023-11-17",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "root"
+    },
+    "favorite": false
+  },
+  {
+    "id": "395C73F7E2E84B0CB7209D106CCCE95A",
+    "title": "go live no1",
+    "description": "go live no1",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:11:40Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:09:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/395C73F7E2E84B0CB7209D106CCCE95A?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/395C73F7E2E84B0CB7209D106CCCE95A?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "395C73F7E2E84B0CB7209D106CCCE95A",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/395C73F7E2E84B0CB7209D106CCCE95A/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/395C73F7E2E84B0CB7209D106CCCE95A/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "go live no1"
+    },
+    "favorite": false
+  },
+  {
+    "id": "98008FCE1FC444FC9235A883F45725C0",
+    "title": "HR Contract document",
+    "description": "HR Contract document",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractdocument",
+    "modified": {
+      "on": "2023-10-30T08:17:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:17:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/98008FCE1FC444FC9235A883F45725C0?type=hrcontractdocument",
+    "clienturl": "http://localhost/app/client/object/98008FCE1FC444FC9235A883F45725C0?type=hrcontractdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "98008FCE1FC444FC9235A883F45725C0",
+    "contenttype": "hrcontractdocument",
+    "content": "http://localhost/rest-ws/service/dms/98008FCE1FC444FC9235A883F45725C0/content?type=hrcontractdocument",
+    "slide": "http://localhost/rest-ws/service/dms/98008FCE1FC444FC9235A883F45725C0/slide?type=hrcontractdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "frr"
+    },
+    "favorite": false
+  },
+  {
+    "id": "EE71E369002C42258B0F0423811F3F22",
+    "title": "testhrinternalcompany sign",
+    "description": "testhrinternalcompany sign",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanysupplierdocument",
+    "modified": {
+      "on": "2023-10-27T14:54:17Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-10-27T14:54:17Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/EE71E369002C42258B0F0423811F3F22?type=hrcontractintercompanysupplierdocument",
+    "clienturl": "http://localhost/app/client/object/EE71E369002C42258B0F0423811F3F22?type=hrcontractintercompanysupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "EE71E369002C42258B0F0423811F3F22",
+    "contenttype": "hrcontractintercompanysupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/EE71E369002C42258B0F0423811F3F22/content?type=hrcontractintercompanysupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/EE71E369002C42258B0F0423811F3F22/slide?type=hrcontractintercompanysupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "testhrinternalcompany sign"
+    },
+    "favorite": false
+  },
+  {
+    "id": "4B1A501DEB3141498E2017F7CBF32E57",
+    "title": "",
+    "description": "",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:27Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:06:30Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4B1A501DEB3141498E2017F7CBF32E57?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4B1A501DEB3141498E2017F7CBF32E57",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/4B1A501DEB3141498E2017F7CBF32E57/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal"
+    },
+    "favorite": false
+  },
+  {
+    "id": "830D4CAD025B4EA59C089069B81AD71B",
+    "title": "test",
+    "description": "test",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanysupplierdocument",
+    "modified": {
+      "on": "2023-11-23T14:03:27Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-13T15:01:01Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/830D4CAD025B4EA59C089069B81AD71B?type=administrationcontractintercompanysupplierdocument",
+    "clienturl": "http://localhost/app/client/object/830D4CAD025B4EA59C089069B81AD71B?type=administrationcontractintercompanysupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "830D4CAD025B4EA59C089069B81AD71B",
+    "contenttype": "administrationcontractintercompanysupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/830D4CAD025B4EA59C089069B81AD71B/content?type=administrationcontractintercompanysupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/830D4CAD025B4EA59C089069B81AD71B/slide?type=administrationcontractintercompanysupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-13",
+      "contractstartdate": "2023-11-13",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "title": "test"
+    },
+    "favorite": false
+  },
+  {
+    "id": "A8A51B9422E34FB49213FDF98DAB8164",
+    "title": "no12",
+    "description": "no12",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:21Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:27:06Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/A8A51B9422E34FB49213FDF98DAB8164?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/A8A51B9422E34FB49213FDF98DAB8164?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "A8A51B9422E34FB49213FDF98DAB8164",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/A8A51B9422E34FB49213FDF98DAB8164/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/A8A51B9422E34FB49213FDF98DAB8164/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no12"
+    },
+    "favorite": false
+  },
+  {
+    "id": "8EB86E2504544481865E353776FB80AD",
+    "title": "Contract Customer",
+    "description": "Contract Customer",
+    "version": 15,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-04T13:10:10Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-30T09:43:53Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/8EB86E2504544481865E353776FB80AD?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "8EB86E2504544481865E353776FB80AD",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/8EB86E2504544481865E353776FB80AD/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-29",
+      "contractstartdate": "2023-11-16",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Freher",
+      "title": "Contract Customer"
+    },
+    "favorite": false
+  },
+  {
+    "id": "7D2277D4F3BF46349C28681EEF7838D8",
+    "title": "no17",
+    "description": "no17",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:40:54Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:31:18Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/7D2277D4F3BF46349C28681EEF7838D8?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/7D2277D4F3BF46349C28681EEF7838D8?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "7D2277D4F3BF46349C28681EEF7838D8",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/7D2277D4F3BF46349C28681EEF7838D8/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/7D2277D4F3BF46349C28681EEF7838D8/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no17"
+    },
+    "favorite": false
+  },
+  {
+    "id": "4D9258743EA3493EB2CA5A6A2D3B1376",
+    "title": "Contract ABC",
+    "description": "Contract ABC",
+    "version": 19,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-16T15:01:07Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-15T13:45:33Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/4D9258743EA3493EB2CA5A6A2D3B1376?type=productsupportcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4D9258743EA3493EB2CA5A6A2D3B1376?type=productsupportcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4D9258743EA3493EB2CA5A6A2D3B1376",
+    "contenttype": "productsupportcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/4D9258743EA3493EB2CA5A6A2D3B1376/content?type=productsupportcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/4D9258743EA3493EB2CA5A6A2D3B1376/slide?type=productsupportcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-29",
+      "contractstartdate": "2023-11-15",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "partnername": "ABC company",
+      "processingstatus": "finalizedTermination",
+      "responsibleperson": "root",
+      "title": "Contract ABC"
+    },
+    "favorite": false
+  },
+  {
+    "id": "FD18EE2ADC8C4BEFB6527FE6A201C35C",
+    "title": "request sign 22 11 2023",
+    "description": "request sign 22 11 2023",
+    "version": 10,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-22T14:16:16Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:14:32Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/FD18EE2ADC8C4BEFB6527FE6A201C35C?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "FD18EE2ADC8C4BEFB6527FE6A201C35C",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/FD18EE2ADC8C4BEFB6527FE6A201C35C/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-11-23",
+      "contractstartdate": "2023-11-21",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Emamur",
+      "title": "request sign 22 11 2023"
+    },
+    "favorite": false
+  },
+  {
+    "id": "77ECD79D21AD4DC28E5A34C1E69B0BD5",
+    "title": "Contratto Servizi ACME SpA",
+    "description": "Contratto Servizi ACME SpA",
+    "version": 1,
+    "activeversion": true,
+    "finalized": false,
+    "type": "miscontractsupplierdocument",
+    "modified": {
+      "on": "2023-11-08T12:02:58Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "created": {
+      "on": "2023-11-08T12:02:58Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/77ECD79D21AD4DC28E5A34C1E69B0BD5?type=miscontractsupplierdocument",
+    "clienturl": "http://localhost/app/client/object/77ECD79D21AD4DC28E5A34C1E69B0BD5?type=miscontractsupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "77ECD79D21AD4DC28E5A34C1E69B0BD5",
+    "contenttype": "miscontractsupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/77ECD79D21AD4DC28E5A34C1E69B0BD5/content?type=miscontractsupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/77ECD79D21AD4DC28E5A34C1E69B0BD5/slide?type=miscontractsupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "title": "Contratto Servizi ACME SpA"
+    },
+    "favorite": false
+  },
+  {
+    "id": "43B8847F85894811BA6BD7C48EB6B2B0",
+    "title": "secondo contratto",
+    "description": "secondo contratto",
+    "version": 8,
+    "activeversion": true,
+    "finalized": false,
+    "type": "productsupportcontractsupplierdocument",
+    "modified": {
+      "on": "2023-11-30T15:24:13Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-30T13:28:34Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/43B8847F85894811BA6BD7C48EB6B2B0?type=productsupportcontractsupplierdocument",
+    "clienturl": "http://localhost/app/client/object/43B8847F85894811BA6BD7C48EB6B2B0?type=productsupportcontractsupplierdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "43B8847F85894811BA6BD7C48EB6B2B0",
+    "contenttype": "productsupportcontractsupplierdocument",
+    "content": "http://localhost/rest-ws/service/dms/43B8847F85894811BA6BD7C48EB6B2B0/content?type=productsupportcontractsupplierdocument",
+    "slide": "http://localhost/rest-ws/service/dms/43B8847F85894811BA6BD7C48EB6B2B0/slide?type=productsupportcontractsupplierdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-12-29",
+      "contractstartdate": "2023-11-30",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "mirmar",
+      "title": "secondo contratto"
+    },
+    "favorite": false
+  },
+  {
+    "id": "22F35A1A966B4472911D45B158F95A8B",
+    "title": "go live no3",
+    "description": "go live no3",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:21:23Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:15:15Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/22F35A1A966B4472911D45B158F95A8B?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/22F35A1A966B4472911D45B158F95A8B?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "22F35A1A966B4472911D45B158F95A8B",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/22F35A1A966B4472911D45B158F95A8B/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/22F35A1A966B4472911D45B158F95A8B/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "go live no3"
+    },
+    "favorite": false
+  },
+  {
+    "id": "C2B9C71574FB4751A6BC54C6DF5219FC",
+    "title": "no14",
+    "description": "no14",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:01Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:28:45Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/C2B9C71574FB4751A6BC54C6DF5219FC?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/C2B9C71574FB4751A6BC54C6DF5219FC?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "C2B9C71574FB4751A6BC54C6DF5219FC",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/C2B9C71574FB4751A6BC54C6DF5219FC/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/C2B9C71574FB4751A6BC54C6DF5219FC/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no14"
+    },
+    "favorite": false
+  },
+  {
+    "id": "4B6A31C3ACDB4CE3BEB3DEDDF08085C9",
+    "title": "new sign 22 11 2023",
+    "description": "new sign 22 11 2023",
+    "version": 7,
+    "activeversion": true,
+    "finalized": false,
+    "type": "serviceplanningcontractcustomerdocument",
+    "modified": {
+      "on": "2023-11-22T13:34:48Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T13:19:28Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9?type=serviceplanningcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4B6A31C3ACDB4CE3BEB3DEDDF08085C9?type=serviceplanningcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4B6A31C3ACDB4CE3BEB3DEDDF08085C9",
+    "contenttype": "serviceplanningcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9/content?type=serviceplanningcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/4B6A31C3ACDB4CE3BEB3DEDDF08085C9/slide?type=serviceplanningcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-01-22",
+      "contractstartdate": "2023-11-22",
+      "contractstatus": "Active",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalizedRenewal",
+      "responsibleperson": "Emamur",
+      "title": "new sign 22 11 2023"
+    },
+    "favorite": false
+  },
+  {
+    "id": "43F4592E8F62444C9F500E64DC628F79",
+    "title": "no 5",
+    "description": "no 5",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:08Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:20:02Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/43F4592E8F62444C9F500E64DC628F79?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/43F4592E8F62444C9F500E64DC628F79?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "43F4592E8F62444C9F500E64DC628F79",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/43F4592E8F62444C9F500E64DC628F79/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/43F4592E8F62444C9F500E64DC628F79/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no 5"
+    },
+    "favorite": false
+  },
+  {
+    "id": "1AA4632782ED4856987E8C68FA89D555",
+    "title": "no19",
+    "description": "no19",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:40:44Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:33:10Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/1AA4632782ED4856987E8C68FA89D555?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/1AA4632782ED4856987E8C68FA89D555?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "1AA4632782ED4856987E8C68FA89D555",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/1AA4632782ED4856987E8C68FA89D555/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/1AA4632782ED4856987E8C68FA89D555/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no19"
+    },
+    "favorite": false
+  },
+  {
+    "id": "27DC8DB56C1A4856958443FC6832E529",
+    "title": "no13",
+    "description": "no13",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:35:24Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:27:51Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/27DC8DB56C1A4856958443FC6832E529?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/27DC8DB56C1A4856958443FC6832E529?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "27DC8DB56C1A4856958443FC6832E529",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/27DC8DB56C1A4856958443FC6832E529/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/27DC8DB56C1A4856958443FC6832E529/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "no13"
+    },
+    "favorite": false
+  },
+  {
+    "id": "B3ECEBFB54364CECA558E35EDF2D0657",
+    "title": "go live no 4",
+    "description": "go live no 4",
+    "version": 4,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractcustomerdocument",
+    "modified": {
+      "on": "2023-12-05T17:21:26Z",
+      "by": {
+        "id": "FBFFEBB1F1B94E439A76F65A82AF8EA7",
+        "name": "KEIM-DEMOSRV#1099",
+        "type": "serveruser",
+        "title": "system",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/FBFFEBB1F1B94E439A76F65A82AF8EA7"
+      }
+    },
+    "created": {
+      "on": "2023-12-05T17:18:54Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://localhost/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://localhost/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://localhost/rest-ws/service/dms/B3ECEBFB54364CECA558E35EDF2D0657?type=administrationcontractcustomerdocument",
+    "clienturl": "http://localhost/app/client/object/B3ECEBFB54364CECA558E35EDF2D0657?type=administrationcontractcustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "B3ECEBFB54364CECA558E35EDF2D0657",
+    "contenttype": "administrationcontractcustomerdocument",
+    "content": "http://localhost/rest-ws/service/dms/B3ECEBFB54364CECA558E35EDF2D0657/content?type=administrationcontractcustomerdocument",
+    "slide": "http://localhost/rest-ws/service/dms/B3ECEBFB54364CECA558E35EDF2D0657/slide?type=administrationcontractcustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-05",
+      "contractstartdate": "2023-12-05",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "root",
+      "title": "go live no 4"
+    },
+    "favorite": false
+  }
+]

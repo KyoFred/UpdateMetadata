@@ -1,0 +1,121 @@
+[
+  {
+    "id": "808089F581E345F4A94FAD586FBDB070",
+    "title": "tr",
+    "description": "tr",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-12-15T10:21:31Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-10-30T08:22:44Z",
+      "by": {
+        "id": "43253185A4214E438D0A4C6A18DECA27",
+        "name": "Emamur",
+        "type": "user",
+        "firstname": "Emanuele",
+        "lastname": "Murgia",
+        "title": "Murgia, Emanuele",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/43253185A4214E438D0A4C6A18DECA27"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/808089F581E345F4A94FAD586FBDB070?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "808089F581E345F4A94FAD586FBDB070",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/808089F581E345F4A94FAD586FBDB070/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "contractcategory": "Contract for work",
+      "contractstatus": "Active",
+      "contracttype": "LIMITED_IN_TIME",
+      "processingstatus": "finalizedTermination",
+      "responsibleperson": "Freher",
+      "title": "tr"
+    },
+    "favorite": false
+  },
+  {
+    "id": "BD285D4413934EE9A5ED63B6CCB8982E",
+    "title": "Documento contrato con firma elettronica",
+    "description": "Documento contrato con firma elettronica",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "hrcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-12-15T10:21:02Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-12-15T10:20:33Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/BD285D4413934EE9A5ED63B6CCB8982E?type=hrcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/BD285D4413934EE9A5ED63B6CCB8982E?type=hrcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "BD285D4413934EE9A5ED63B6CCB8982E",
+    "contenttype": "hrcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/BD285D4413934EE9A5ED63B6CCB8982E/content?type=hrcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/BD285D4413934EE9A5ED63B6CCB8982E/slide?type=hrcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2023-12-15",
+      "contractstartdate": "2023-12-15",
+      "contractstatus": "Inactive",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "processing",
+      "responsibleperson": "Freher",
+      "title": "Documento contrato con firma elettronica"
+    },
+    "favorite": false
+  }
+]

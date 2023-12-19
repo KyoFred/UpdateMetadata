@@ -1,0 +1,63 @@
+[
+  {
+    "id": "4A6DBADE70054FA6BBCD96C2D8C87828",
+    "title": "cotract test update",
+    "description": "cotract test update",
+    "version": 2,
+    "activeversion": true,
+    "finalized": false,
+    "type": "administrationcontractintercompanycustomerdocument",
+    "modified": {
+      "on": "2023-11-23T15:10:19Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "created": {
+      "on": "2023-11-22T10:36:15Z",
+      "by": {
+        "id": "1EF9EB6E7F2F41D69D5408609CFF5FFD",
+        "name": "root",
+        "type": "user",
+        "firstname": "root",
+        "title": ", root",
+        "active": true,
+        "uri": "http://keim-demosrv/rest-ws/service/organization/id/1EF9EB6E7F2F41D69D5408609CFF5FFD"
+      }
+    },
+    "icon": {
+      "id": "8ED1E037E4D7468AB69EB8A04C2EA080",
+      "uri": "http://keim-demosrv/rest-ws/service/ui/icon/8ED1E037E4D7468AB69EB8A04C2EA080"
+    },
+    "uri": "http://keim-demosrv/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828?type=administrationcontractintercompanycustomerdocument",
+    "clienturl": "http://localhost/app/client/object/4A6DBADE70054FA6BBCD96C2D8C87828?type=administrationcontractintercompanycustomerdocument",
+    "contentcount": 1,
+    "contentlinkedcount": 0,
+    "contentid": "4A6DBADE70054FA6BBCD96C2D8C87828",
+    "contenttype": "administrationcontractintercompanycustomerdocument",
+    "content": "http://keim-demosrv/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828/content?type=administrationcontractintercompanycustomerdocument",
+    "slide": "http://keim-demosrv/rest-ws/service/dms/4A6DBADE70054FA6BBCD96C2D8C87828/slide?type=administrationcontractintercompanycustomerdocument",
+    "folder": false,
+    "iscontextfolder": false,
+    "lock": "NOT_LOCKED",
+    "data": {
+      "automaticrenewalday": 365,
+      "contractcategory": "General contract",
+      "contractenddate": "2024-11-22",
+      "contractstartdate": "2023-11-22",
+      "contractstatus": "Finished",
+      "contracttype": "AUTO_RENEWAL",
+      "notificationperiod": 90,
+      "processingstatus": "finalized",
+      "responsibleperson": "Emamur",
+      "title": "cotract test update"
+    },
+    "favorite": false
+  }
+]
